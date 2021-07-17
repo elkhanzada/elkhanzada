@@ -1,7 +1,10 @@
 ### Hi there 👋
-I am senior at ![UNIST](https://www.unist.ac.kr/)
+
+- I am senior at [UNIST](https://www.unist.ac.kr/) 
+<div align="center">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=elkhanzada)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+</div>
+  <!--
 **elkhanzada/elkhanzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
