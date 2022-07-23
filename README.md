@@ -10,5 +10,4 @@
 
 </div>
 
-![Visit tracker](https://clustrmaps.com/site/1bpii)
-![Visit tracker](//www.clustrmaps.com/map_v2.png?d=FzwJ0GIRdpVrFckP0C5o5QtZAQsHBs40Q-T-WekOdK0&cl=ffffff)
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FzwJ0GIRdpVrFckP0C5o5QtZAQsHBs40Q-T-WekOdK0&cl=ffffff&w=a"></script>
