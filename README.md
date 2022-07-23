@@ -11,5 +11,5 @@
 </div>
 
 <a href="https://clustrmaps.com/site/1bpii"  title="Visit tracker">
-  ![](//www.clustrmaps.com/map_v2.png?d=FzwJ0GIRdpVrFckP0C5o5QtZAQsHBs40Q-T-WekOdK0&cl=ffffff)
+  ![Visit](//www.clustrmaps.com/map_v2.png?d=FzwJ0GIRdpVrFckP0C5o5QtZAQsHBs40Q-T-WekOdK0&cl=ffffff)
 </a>
