@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a MSc candidate in CSE at the [UNIST](https://www.unist.ac.kr/). My current research interests include human pose estimation, action recognition, deep learning. 
+- I am a MSc candidate in CSE at [UNIST](https://www.unist.ac.kr/). My current research interests include human pose estimation, action recognition, deep learning. 
 
 
 
