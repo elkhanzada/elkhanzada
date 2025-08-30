@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a PhD student in CSE at [MSU](https://msu.edu/). My current research interests include pose estimation, action recognition, deep learning. 
+- I am a PhD student in CSE at [MSU](https://msu.edu/). My current research interests include 3D reconstruction, pose estimation.
 
 
 
